@@ -11,7 +11,7 @@
     "express": "^4.13.3",
     "gulp": "^3.9.1",
     "history": "^1.13.0",
-    "mongoose": "^4.2.5",
+    "mongoose": "^5.7.8",
     "morgan": "^1.6.1",
     "nodemon": "^1.11.0",
     "react": "^0.14.2",
